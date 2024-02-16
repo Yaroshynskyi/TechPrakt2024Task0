@@ -1,4 +1,4 @@
-<img src="https://github.com/Yaroshynskyi/TechPrakt2024Task0/assets/158090081/94b158ee-e20e-4d8e-ac8b-0eb8a9df81d8)" width="300">
+<img src="[https://github.com/Yaroshynskyi/TechPrakt2024Task0/assets/158090081/94b158ee-e20e-4d8e-ac8b-0eb8a9df81d8)](https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png)" width="300">
 
 
 Виконання практичної роботи передбачає вивчення прийомів роботи з системою контролю версій **Git**:
